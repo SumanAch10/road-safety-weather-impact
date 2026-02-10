@@ -24,7 +24,6 @@ ENV/
 # =========================
 # Data files (DO NOT COMMIT RAW DATA)
 # =========================
-data/
 *.csv
 *.tsv
 *.xlsx
