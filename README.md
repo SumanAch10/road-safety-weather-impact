@@ -23,7 +23,7 @@ This project focuses on:
 ### 🚗 Road Accident Data (Core Dataset)
 - **NHTSA Fatality Analysis Reporting System (FARS)**
 - Coverage: United States (nationwide)
-- Years analyzed: **2020–2023**
+- Years analyzed: **2019–2023**
 - Data includes:
   - Crash location (state, county)
   - Time and date
