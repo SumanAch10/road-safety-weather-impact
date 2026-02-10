@@ -1,0 +1,98 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# =========================
+# Jupyter / IPython
+# =========================
+.ipynb_checkpoints/
+.profile_default/
+.ipython/
+
+# =========================
+# Data files (DO NOT COMMIT RAW DATA)
+# =========================
+data/
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.h5
+*.hdf5
+*.nc
+*.zip
+
+# =========================
+# Geospatial / Satellite formats
+# =========================
+*.tif
+*.tiff
+*.geotiff
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.kml
+*.kmz
+
+# =========================
+# Outputs / Figures
+# =========================
+figures/
+plots/
+outputs/
+results/
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# =========================
+# Logs & temporary files
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# =========================
+# OS / Editor junk
+# =========================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# =========================
+# Credentials / Secrets
+# =========================
+*.env
+.env.*
+credentials.json
+secrets.json
+config.yaml
+
+# =========================
+# Python build / test
+# =========================
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
